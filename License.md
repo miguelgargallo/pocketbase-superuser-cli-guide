@@ -1,4 +1,4 @@
-# Pylar AI Creative ML Free License
+# Pylar AI Creative ML Free License (Guides)
 
 Copyright (C) 2024 Miguel Gargallo
 
