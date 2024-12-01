@@ -1,5 +1,10 @@
 # Superuser Guide for PocketBase (v0.23.3)
 
+<p align="center">
+    <a href="https://pocketbase.io" target="_blank" rel="noopener">
+        <img src="https://i.imgur.com/5qimnm5.png" alt="PocketBase - open source backend in 1 file" />
+    </a>
+</p>
 <div align="center">
   <a href="#english">English</a> | <a href="#spanish">Español</a>
 </div>
