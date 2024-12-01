@@ -1,3 +1,11 @@
+<!--
+SEO Metadata:
+- Title: PocketBase Superuser CLI Guide
+- Description: A detailed guide on creating or updating superusers in PocketBase v0.23.3 using the CLI. Includes English and Spanish versions.
+- Keywords: PocketBase, CLI, Superuser, Admin Guide, Docker, v0.23.3, Database, DevOps, English, Español
+- Author: Miguel Gargallo
+-->
+
 # Superuser Guide for PocketBase (v0.23.3)
 
 <p align="center">
