@@ -18,20 +18,17 @@
 ### 2. Basic Command
 Use the following command to create or update a superuser:
 
-```html
 <pre style="background:#282c34;color:#61dafb;padding:10px;border-radius:5px;overflow:auto;">
 /app/pocketbase superuser upsert &lt;email&gt; &lt;password&gt;
 </pre>
-```
 
 #### Example
 To create a superuser with the email `admin@example.com` and the password `strong4a$$w0rd`:
 
-```html
+
 <pre style="background:#282c34;color:#61dafb;padding:10px;border-radius:5px;overflow:auto;">
 /app/pocketbase superuser upsert admin@example.com strong4a$$w0rd
 </pre>
-```
 
 ---
 
@@ -65,20 +62,18 @@ During the installation of PocketBase `v0.23.3`, a launch link with a token is g
 ### 2. Comando Básico
 Utiliza el siguiente comando para crear o actualizar un superusuario:
 
-```html
+
 <pre style="background:#282c34;color:#61dafb;padding:10px;border-radius:5px;overflow:auto;">
 /app/pocketbase superuser upsert &lt;email&gt; &lt;password&gt;
 </pre>
-```
 
 #### Ejemplo
 Para crear un superusuario con el correo `admin@example.com` y la contraseña `strong4a$$w0rd`:
 
-```html
+
 <pre style="background:#282c34;color:#61dafb;padding:10px;border-radius:5px;overflow:auto;">
 /app/pocketbase superuser upsert admin@example.com strong4a$$w0rd
 </pre>
-```
 
 ---
 
