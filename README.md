@@ -6,7 +6,7 @@ SEO Metadata:
 - Author: Miguel Gargallo
 -->
 
-# Superuser Guide for PocketBase (v0.23.3)
+# Superuser Guide for PocketBase (v0.24.1)
 
 <p align="center">
     <a href="https://pocketbase.io" target="_blank" rel="noopener">
